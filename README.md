@@ -1,0 +1,1 @@
+This is a wikipedia search app that uses the wikipedia API to display search results of a search term input. I followed tutorials from different websites to make this in my efforts to learn javascript this break.
